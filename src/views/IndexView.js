@@ -99,7 +99,7 @@ class IndexView extends React.Component {
               </div>
             </div>
             <div className="af-class-section af-class-main af-class-wf-section">
-              <img src="images/Hero-image.jpeg" loading="lazy" sizes="100vw" alt /></div>
+              <img src="images/Hero-image.jpeg" loading="lazy" sizes="100vw" alt="logo" /></div>
             <div id="story" className="af-class-section af-class-wf-section">
               <div className="af-class-container w-container">
                 <div className="af-class-text-block">LIVE OR&nbsp;DIE</div>
