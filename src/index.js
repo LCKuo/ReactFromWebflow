@@ -1,13 +1,16 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
+import './A.css';
+import './B.css';
+import './C.css';
+import './styles';
+import './scripts';
 import reportWebVitals from './reportWebVitals';
-
+import IndexView from './views/IndexView';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <IndexView />
   </React.StrictMode>
 );
 
